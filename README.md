@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ajrulrn&show_icons=true&theme=algolia&count_private=true&hide_borer=true">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ajrulrn&show_icons=true&theme=algolia&count_private=true&hide_border=true">
   
 </p>
 <p align="center">
