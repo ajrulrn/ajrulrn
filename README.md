@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajrulrn&show_icons=true&count_private=true&hide_border=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ajrulrn&show_icons=true&theme=algolia&count_private=true&hide_borer=true">
+  
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajrulrn&layout=compact&langs_count=8&hide_border=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ajrulrn&layout=compact&langs_count=8&theme=algolia&hide_border=true" />
 </p>
 
 <p align="center">Let's Connect</p>
