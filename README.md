@@ -3,7 +3,7 @@
   
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ajrulrn&layout=compact&langs_count=8&theme=algolia&hide_border=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ajrulrn&layout=compact&langs_count=8&theme=algolia&hide_border=true&hide=html,blade" />
 </p>
 
 <p align="center">Let's Connect</p>
